@@ -29,3 +29,4 @@ Stack
 -.push is for adding an element to the stack, .pop is for removing the element at the top of the stack
  .peek is for seeing whats at the top of the stack without removing and .empty checks if the stack is empty.
 # Coding-Along
+# Coding-Along
